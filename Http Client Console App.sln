@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Http Client Console App", "Http Client Console App\Http Client Console App.csproj", "{ED984665-EEB5-4D19-9AB8-8EE492182695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED984665-EEB5-4D19-9AB8-8EE492182695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED984665-EEB5-4D19-9AB8-8EE492182695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED984665-EEB5-4D19-9AB8-8EE492182695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED984665-EEB5-4D19-9AB8-8EE492182695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {818D83AA-C4D9-4C91-948B-3B38710385D0}
+	EndGlobalSection
+EndGlobal
